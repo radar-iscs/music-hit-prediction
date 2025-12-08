@@ -9,12 +9,12 @@ st.title("Music Hit Prediction")
 st.set_page_config(page_title="Music Hit Prediction")
 
 def load_model():
-    model = joblib.load('Model/best_model.pkl')
-    with open('Model/feature_columns.json', 'r') as f:
+    model = joblib.load('../Model/best_model.pkl')
+    with open('../Model/feature_columns.json', 'r') as f:
         feature_columns = json.load(f)
-    with open('Model/model_info.json', 'r') as f:
+    with open('../Model/model_info.json', 'r') as f:
         model_info = json.load(f)
-    feature_importance = pd.read_csv('Model/feature_importance.csv')
+    feature_importance = pd.read_csv('../Model/feature_importance.csv')
     return model, feature_columns, model_info, feature_importance
 
 def style_result(val):

@@ -1,0 +1,101 @@
+,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+0,6dOtVTDdiauQNBQEDOtlAB,Billie Eilish,HIT ME HARD AND SOFT,BIRDS OF A FEATHER,95,210373,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+1,51rfRCiUSvxXlCSCfIztBy,Gracie Abrams,The Secret of Us,"I Love You, I'm Sorry",87,157146,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+2,6jbYpRPTEFl1HFKHk1IC0m,"Tyler, The Creator;Lola Young",CHROMAKOPIA,Like Him (feat. Lola Young),86,278014,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+3,3t6gUcGYLrUuqwpXjOFWQc,Zach Top,Cold Beer & Country Music,I Never Lie,80,224906,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+4,0hta2Lb2zKJ7kEnAEZEE3G,wifiskeleton;i wanna be a jack-o-lantern,suburban daredevil,Nope your too late i already died,87,90067,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+5,2plbrEY59IikOBgBGLjaoe,Lady Gaga;Bruno Mars,Die With A Smile,Die With A Smile,92,251667,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,art pop
+6,0InIeZW4P6VO7dUGRM4AKH,The Marías,Submarine,Sienna,89,224840,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,bedroom pop
+7,1KZG1H1OCugGqIRmk1wF9m,Sam Barber;Avery Anna,Restless Mind,Indigo (feat. Avery Anna),83,286634,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+8,0FTmksd2dxiE5e3rWyJXs6,sombr,back to friends,back to friends,93,199032,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+9,3QaPy1KgI7nu9FJEQUgn6h,Billie Eilish,HIT ME HARD AND SOFT,WILDFLOWER,93,261466,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+10,7ne4VBA60CxGM75vw0EYad,Gracie Abrams,The Secret of Us (Deluxe),That’s So True,91,166300,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+11,6AI3ezQ4o3HUoP6Dhudph3,Kendrick Lamar,Not Like Us,Not Like Us,88,274192,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,hip hop
+12,51ZQ1vr10ffzbwIjDCwqm4,Ariana Grande,eternal sunshine,we can't be friends (wait for your love),88,228639,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+13,3EO58D1YpHnTvBy68gK8HE,Tucker Wetmore,Waves On A Sunset,Wind Up Missin’ You,81,166666,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,country
+14,5G2f63n7IPVPPjfNIGih7Q,Sabrina Carpenter,Short n' Sweet,Taste,87,157279,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+15,4ZJ4vzLQekI0WntDbanNC7,Zach Bryan,Pink Skies,Pink Skies,84,194920,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+16,0WbMK4wrZ1wFSty9F7FCgu,Chappell Roan,"Good Luck, Babe!","Good Luck, Babe!",90,218423,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+17,3siwsiaEoU4Kuuc9WKMUy5,The Marías,Submarine,No One Noticed,90,236906,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,bedroom pop
+18,3xkHsmpQCBMytMJNiDf3Ii,Benson Boone,Fireworks & Rollerblades,Beautiful Things,89,180304,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+19,2A22iI0x4EYAVXNpKPhNEM,Ella Langley,still hungover,weren't for the wind,83,193666,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+20,0aB0v4027ukVziUGwVGYpG,Kendrick Lamar;Lefty Gunplay,GNX,tv off (feat. lefty gunplay),86,220690,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,hip hop
+21,2CGNAOSuO1MEFCbBRgUzjd,Kendrick Lamar;SZA,GNX,luther (with sza),85,177598,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,hip hop
+22,1osfLqL6L2iQsirRf83ded,Riley Green,Way Out Here,Worst Way,83,220558,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+23,4WFgvKVfEhb3IUAFGrutTR,Ravyn Lenae,Bird's Eye,Love Me Not,89,213466,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,alternative r&b
+24,2RkZ5LkEzeHGRsmDqKwmaJ,Alex Warren,"You'll Be Alright, Kid (Chapter 1)",Ordinary,92,186964,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+25,53iuhJlwXhSER5J2IYYv1W,Taylor Swift,The Life of a Showgirl,The Fate of Ophelia,100,226073,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+26,2x3mwb96B6TquRqMtbxUE1,Taylor Swift,The Life of a Showgirl,Actually Romantic,89,163699,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+27,55lijDD6OAjLFFUHU9tcDm,RAYE,WHERE IS MY HUSBAND!,WHERE IS MY HUSBAND!,95,196795,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+28,4gfrYDtaRmp6HPvN80V2ob,Morgan Wallen,I’m The Problem,I Got Better,86,204963,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+29,0MHStU0muAIEMbwdnebYu2,HUNTR/X;EJAE;AUDREY NUNA;REI AMI;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),Takedown,90,182016,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+30,0A6oqQbgko0cwOB6HrMB3M,Dream Supplier;Baby Sleeps;Background White Noise,Clean Baby Sleep White Noise (Loopable no fade),Clean Baby Sleep White Noise (Loopable no fade),94,142222,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+31,3cZajhyr8LmtPfHZ9296tj,Disco Lines;Tinashe,No Broke Boys,No Broke Boys,93,163994,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,stutter house
+32,0FIDCNYYjNvPVimz5icugS,The Weeknd;Playboi Carti,Hurry Up Tomorrow,Timeless (feat Playboi Carti),91,256000,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+33,6sGIMrtIzQjdzNndVxe397,Olivia Dean,The Art of Loving,So Easy (To Fall In Love),95,169000,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop soul
+34,3yWuTOYDztXjZxdE2cIRUa,Taylor Swift,The Life of a Showgirl,Opalite,95,235355,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+35,03bTIHJElXZ0O0jqOQvAbY,Taylor Swift,The Life of a Showgirl,Father Figure,91,212777,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+36,1CPZ5BxNNd0n0nF4Orb9JS,HUNTR/X;EJAE;AUDREY NUNA;REI AMI;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),Golden,98,194607,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+37,65DbTqJKhbwqYbZ1Okr0rc,Ella Langley,Choosin' Texas,Choosin' Texas,85,232226,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+38,5DxDLsW6PsLz5gkwC7Mk5S,Rumi;Jinu;EJAE;Andrew Choi;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),Free,90,187963,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+39,5eXgqtg3T8Av0m1FUaGHex,Taylor Swift;Sabrina Carpenter,The Life of a Showgirl,The Life of a Showgirl (feat. Sabrina Carpenter),90,241766,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+40,0je57Uq5eTk1wrPzn9sWbl,Sabrina Carpenter,Man’s Best Friend,When Did You Get Hot?,91,145398,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+41,2TEQvxxQabwLQMqWMg1qGu,Taylor Swift,The Life of a Showgirl,Wi$h Li$t,90,207349,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+42,04emojnbYkrRmv5qtJcgVP,Morgan Wallen;Tate McRae,I’m The Problem,What I Want (feat. Tate McRae),86,184517,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country
+43,5ylJtmaWPJ33cW3En7WOu0,Taylor Swift,The Life of a Showgirl,Wood,89,150517,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+44,3RXUgPNIbUgFxsDWuBQEt6,HUNTR/X;EJAE;AUDREY NUNA;REI AMI;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),How It’s Done,91,176059,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+45,02sy7FAs8dkDNYsHp4Ul3f,Saja Boys;Andrew Choi;Neckwav;Danny Chung;KEVIN WOO;samUIL Lee;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),Soda Pop,92,150686,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+46,5sBDrrtLGbV64QJnEqfjer,HUNTR/X;EJAE;AUDREY NUNA;REI AMI;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),What It Sounds Like,91,250268,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+47,1I37Zz2g3hk9eWxaNkj031,Saja Boys;Andrew Choi;Neckwav;Danny Chung;KEVIN WOO;samUIL Lee;KPop Demon Hunters Cast,KPop Demon Hunters (Soundtrack from the Netflix Film),Your Idol,92,191537,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+48,1qbmS6ep2hbBRaEZFpn7BX,Olivia Dean,Man I Need,Man I Need,97,184000,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop soul
+49,1jgTiNob5cVyXeJ3WgX5bL,Taylor Swift,The Life of a Showgirl,Elizabeth Taylor,92,208291,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+50,3i8fIJNV0yuC4kXT3SkVBZ,Ariana Grande,Wicked: The Soundtrack,Popular,79,241501,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+51,4myFsmx2v6znDOJfn3IkbD,Falling In Reverse,Popular Monster,Popular Monster,74,220537,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,emo
+52,2FQrifJ1N335Ljm3TjTVVf,Shaboozey,A Bar Song (Tipsy),A Bar Song (Tipsy),83,171291,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+53,1cOboCuWYI2osTOfolMRS6,Oscar Maydon;Fuerza Regida,Tu Boda,Tu Boda,83,225880,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+54,1UNEuG9DYOWiikf00ayr52,Ravyn Lenae,Love Me Not / Love Is Blind,Love Me Not,85,213466,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,alternative r&b
+55,19D8LNpWwIPpi6hs9BG7dq,NewJeans,How Sweet,Bubble Gum,72,200266,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+56,7221xIgOnuakPdLqT0F3nP,Post Malone;Morgan Wallen,I Had Some Help,I Had Some Help (Feat. Morgan Wallen),81,178205,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+57,1aKvZDoLGkNMxoRYgkckZG,ILLIT,SUPER REAL ME,Magnetic,83,160688,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+58,7tI8dRuH2Yc6RuoTjxo4dU,Jimin,MUSE,Who,87,170887,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+59,09LrGvT9KsACH66RHYMDyR,Sabrina Carpenter,Short n' Sweet,Don’t Smile,79,206295,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+60,5vNRhkKd0yEAg8suGBpjeY,ROSÉ;Bruno Mars,APT.,APT.,88,169917,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+61,3SAga35lAPYdjj3qyfEsCF,d4vd,Feel It (From “Invincible”),Feel It (From “Invincible”),79,157974,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+62,3ld1FzyNgpZwGn4h9cOXrq,Ravyn Lenae;Rex Orange County,Love Me Not (feat. Rex Orange County),Love Me Not (feat. Rex Orange County),80,188198,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,alternative r&b
+63,2qSkIjg1o9h3YT9RAgYN75,Sabrina Carpenter,Espresso,Espresso,85,175459,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+64,1PREzVLuDT6PSE9sej4wnV,Fuerza Regida;Grupo Frontera,MALA MÍA,COQUETA,88,241648,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+65,2OzhQlSqBEmt7hmkYxfT6m,Taylor Swift;Post Malone,THE TORTURED POETS DEPARTMENT,Fortnight (feat. Post Malone),82,228965,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+66,58AZXyKRlsMBMcrRjpJpVG,KATSEYE,Debut,Debut,84,123281,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+67,48vIfHaK7by6x0T6ucpODL,Madison Beer,make you mine,make you mine,83,221709,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+68,6fPan2saHdFaIHuTSatORv,Billie Eilish,HIT ME HARD AND SOFT,L’AMOUR DE MA VIE,81,333986,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+69,4pkb8SbRGeHAvdb87v9rpf,Marshmello;Kane Brown,Miles On It,Miles On It,79,168355,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,edm
+70,3FqUPvubYeRCMsdJ02QyZR,Fuerza Regida,Dolido Pero No Arrepentido,TÚ NAME,82,152078,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+71,7585wxMp2e3IhBq3tJAXgw,Calle 24,ONDEADO$,SUIZA,86,114913,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+72,3Y1EvIgEVw51XtgNEgpz5c,Charli xcx,BRAT,Von dutch,79,164284,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,hyperpop
+73,5lKFO0PrOC9jmOlPEdjHsL,Tito Double P;Peso Pluma,INCÓMODO,DOS DÍAS,83,153928,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+74,4q5YezDOIPcoLr8R81x9qy,Taylor Swift,THE TORTURED POETS DEPARTMENT,I Can Do It With a Broken Heart,79,218004,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+75,51eSHglvG1RJXtL3qI5trr,Benson Boone,Fireworks & Rollerblades,Slow It Down,83,161831,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+76,792FHkvZbBQuWWM1a4TfL8,Alex Warren,"You'll Be Alright, Kid (Chapter 1)",Before You Leave Me,81,176178,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+77,0llPOBVoJYDAtdmVlNE41A,Jelly Roll,Beautifully Broken,Liar,77,204933,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,country hip hop
+78,1a19jsjG2DvbN1fVJonKUU,beabadoobee,This Is How Tomorrow Moves,Beaches,79,230053,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,bedroom pop
+79,629DixmZGHc7ILtEntuiWE,Billie Eilish,HIT ME HARD AND SOFT,LUNCH,82,179586,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+80,3D24ErT1MMmUfXWotSj2A2,Fuerza Regida;Grupo Frontera,MALA MÍA,ME JALO,85,212002,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+81,7JDfWHxOFo63yQmVs5wSPM,Forrest Frank,CHILD OF GOD (DELUXE),YOUR WAY'S BETTER,74,198082,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,christian
+82,040I32EKLxQrkuxQu1pqvT,SZA,SOS Deluxe: LANA,Saturn,79,186191,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,r&b
+83,5GTBdEjZe7zEDp1N0eCZE4,Peso Pluma;Estevan Plazola,ÉXODO,HOLLYWOOD,82,284864,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,corrido
+84,102YUQbYmwdBXS7jwamI90,Sabrina Carpenter,Short n' Sweet,Good Graces,78,185265,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+85,21B4gaTWnTkuSh77iWEXdS,Sabrina Carpenter,Short n' Sweet,Juno,84,223192,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+86,6aJn7Cst74cj4lNIiPRgav,KATSEYE,Touch,Touch,87,129882,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+87,5fZJQrFKWQLb7FpJXZ1g7K,Shaboozey,"Where I've Been, Isn't Where I'm Going",A Bar Song (Tipsy),81,171291,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+88,5wbg8kepMFoMzHOEuxiI0q,Gracie Abrams,The Secret of Us,Close To You,79,225973,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+89,2tHwzyyOLoWSFqYNjeVMzj,Sabrina Carpenter,Short n' Sweet,Please Please Please,85,186365,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+90,1UHS8Rf6h5Ar3CDWRd3wjF,Sabrina Carpenter,Short n' Sweet,Bed Chem,84,171869,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+91,2HRqTpkrJO5ggZyyK6NPWz,Sabrina Carpenter,Short n' Sweet,Espresso,86,175459,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,pop
+92,7BRD7x5pt8Lqa1eGYC4dzj,Billie Eilish,HIT ME HARD AND SOFT,CHIHIRO,87,303440,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+93,5IZXB5IKAD2qlvTPJYDCFB,Post Malone;Morgan Wallen,F-1 Trillion,I Had Some Help (Feat. Morgan Wallen),82,178205,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various
+94,01prGWjCTxKBxJc400zwvQ,LISA,Rockstar,Rockstar - Extended,60,164782,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+95,6dXjUMjFxfAX4F2dHKqQzf,Stepz,Rock,Rock,71,144113,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,uk drill
+96,6vvPecFTmWxDfEJ6cYT1wa,LISA,Rockstar,Rockstar,75,138213,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,k-pop
+97,63ABAnFKJCp28TAyqf2cGL,Mk.gee,ROCKMAN,ROCKMAN,64,179370,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,various
+98,4e8ZYKrpPrc2f0TnyXqwTu,Oscar Stormborn,Rockabye Baby,Rockabye Baby,53,112820,FALSE,0,0,0,0,0,0,0,0,0,0,0,4,lullaby
+99,7ciVVd4JFgUb5D38mMCkIA,310babii;OHGEESY;BlueBucksClan,rock your hips,rock your hips,52,178285,TRUE,0,0,0,0,0,0,0,0,0,0,0,4,various

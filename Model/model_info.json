@@ -1,0 +1,12 @@
+{
+  "model_name": "Decision Tree (Tuned)",
+  "best_params": {
+    "min_samples_split": 2,
+    "min_samples_leaf": 2,
+    "max_depth": null
+  },
+  "test_accuracy": 0.8930859657919661,
+  "test_f1_score": 0.10951276102088167,
+  "hit_threshold": 65,
+  "n_features": 14
+}

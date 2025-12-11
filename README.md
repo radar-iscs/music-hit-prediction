@@ -16,6 +16,7 @@ Music-Hit-Prediction/
 ├── Model/                 # Trained model and related filesa
 ├── Scripts/               # Scripts for fetching from APIs
 ├── Visualizations/        # EDA and evaluation charts
+├── Slides                 # Slides for presentation
 ├── Summary                # The summary of the project
 ├── assets/                # App screenshots
 ```
